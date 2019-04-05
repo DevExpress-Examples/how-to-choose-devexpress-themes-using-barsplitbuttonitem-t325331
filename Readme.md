@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/ThemeSplitButtontem/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ThemeSplitButtontem/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/ThemeSplitButtontem/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/ThemeSplitButtontem/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/ThemeSplitButtontem/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ThemeSplitButtontem/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Choose DevExpress Themes Using BarSplitButtonItem
 
